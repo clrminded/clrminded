@@ -70,6 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting DEEP into something](https://dev.to/christopher_liudahlrackl/getting-deep-into-something-3ceg)
 <!-- BLOG-POST-LIST:END -->
 
 
