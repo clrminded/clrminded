@@ -70,8 +70,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Triop system maneuver](https://dev.to/christopher_liudahlrackl/triop-system-maneuver-3fo2)
-- [Getting DEEP into something](https://dev.to/christopher_liudahlrackl/getting-deep-into-something-3ceg)
+- [iOS Projects on Github](https://dev.to/clr3/ios-projects-on-github-2ag3)
+- [Triop system maneuver](https://dev.to/clr3/triop-system-maneuver-3fo2)
+- [Getting DEEP into something](https://dev.to/clr3/getting-deep-into-something-3ceg)
 <!-- BLOG-POST-LIST:END -->
 
 
